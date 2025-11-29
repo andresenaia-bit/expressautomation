@@ -26,3 +26,4 @@ for (let line of startupMessage.split("\n")) {
 }
 
 app.listen(port, () => console.log(`sample-expressjs app listening on port ${port}!`))
+Atualização para forçar redeploy - 2025-11-29 14:00
