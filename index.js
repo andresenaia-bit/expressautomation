@@ -19,6 +19,7 @@ app.get('/bem-vindo', (req, res) => {
 });
 
 // Inicia o servidor
-app.listen(port\'' () => {
-  console.log(Servidor rodando na porta ${port}'.
+app.listen(port, () => {
+  console.log(`Servidor rodando na porta ${port}`);
 });
+
